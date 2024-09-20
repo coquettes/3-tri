@@ -1,1 +1,1 @@
-alert(nomeTwitter)
+alert (nomeTwitter)
