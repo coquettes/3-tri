@@ -1,1 +1,1 @@
-alert (John e Cecilia)
+alert ('John e Cecilia')
