@@ -1,1 +1,1 @@
-alert (nomeTwitter)
+alert (John e Cecilia)
