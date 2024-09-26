@@ -1,5 +1,5 @@
 //alert('John e Cecília')
-let ar=parseint(prompt('qual o numero'))
+let ar=Parseint(prompt('qual o numero'))
 
 function soma(numero1,numero2){
     return numero1+numero2;
