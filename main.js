@@ -11,5 +11,5 @@ function areaQuadrado(lado){
 console.log(areaQuadrado(ar));
 let media=function( ){
     return    ;
-    document.write(   );
 }
+document.write(   );
