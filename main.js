@@ -1,4 +1,4 @@
-//alert('John e Cecília')
+alert('John e Cecília')
 let ar=parseInt(prompt('qual o numero'))
 
 function soma(numero1,numero2){
@@ -9,7 +9,7 @@ function areaQuadrado(lado){
     return lado**2;
 }
 console.log(areaQuadrado(ar));
-let media=function(1,2,3){
-    return 1+2+3/3
+let media=function(){
+    return
 }
 document.write(   );
