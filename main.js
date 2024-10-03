@@ -21,16 +21,25 @@
 // }
 // document.write(areaQuadrado(lado));
 
-let estados = ['AC', 'AL', 'AP', 'AM', 'BA', 'CE', 'DF', 'ES', 'GO', 'MA', 'MT', 'MS', 'MG', 'PA', 'PB', 'PR', 'PE', 'PI', 'RJ', 'RN', 'RS', 'RO', 'RR', 'SC', 'SP', 'SE', 'TO'];
 
-let i = 0;
-while (i < estados.length) {
+// let estados = ['AC', 'AL', 'AP', 'AM', 'BA', 'CE', 'DF', 'ES', 'GO', 'MA', 'MT', 'MS', 'MG', 'PA', 'PB', 'PR', 'PE', 'PI', 'RJ', 'RN', 'RS', 'RO', 'RR', 'SC', 'SP', 'SE', 'TO'];
 
-    console.log(i);
-    console.log(estados[i]);
-    i++;
+// let i = 0;
+// while (i < estados.length) {
+
+//     console.log(i);
+//     console.log(estados[i]);
+//     i++;
+// }
+// for(let j=0;estados.length;j++){
+//     console.log(j);
+//     console.log(estados[j]);
+// }
+
+let idade= 17;
+if ( idade> 17 ){
+console.log('Pode dirigir');
 }
-for(let j=0;estados.length;j++){
-    console.log(j);
-    console.log(estados[j]);
+else{
+
 }
