@@ -19,4 +19,4 @@ console.log(soma(3,5));
 function areaQuadrado(lado){
     return lado**2;
 }
-
+document.write(areaQuadrado(lado));
