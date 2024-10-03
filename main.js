@@ -1,5 +1,4 @@
 alert('John e Cecília')
-let num=parseInt(prompt('qual o numero'));
 
 let num1=parseInt(prompt('qual o numero'));
 let num3=parseInt(prompt('qual o numero'));
